@@ -1,0 +1,198 @@
+{
+ "nextId": 16,
+ "entries": [
+  {
+   "id": 1,
+   "kind": "目標",
+   "player": "共用",
+   "world": "洛斯曼",
+   "titleZh": "捕夢者",
+   "titleEn": "Dreamcatcher",
+   "status": "待確認",
+   "detail": "目前重點；聊天中尚未確認取得狀態。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 2,
+   "kind": "目標",
+   "player": "共用",
+   "world": "洛斯曼",
+   "titleZh": "紅王子的王冠",
+   "titleEn": "Crown of the Red Prince",
+   "status": "可做",
+   "detail": "先確認鎏金大廳，刷 3 枚紅王硬幣並進貢紅王子，再擊殺獨一真皇。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 3,
+   "kind": "目標",
+   "player": "共用",
+   "world": "迷宮",
+   "titleZh": "執政官",
+   "titleEn": "Archon",
+   "status": "待確認",
+   "detail": "目前重點；前置裝備與開門資格尚待盤點。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 4,
+   "kind": "世界進度",
+   "player": "尼尼",
+   "world": "洛斯曼",
+   "titleZh": "淒涼海岸（戰役）",
+   "titleEn": "Forlorn Coast · Campaign",
+   "status": "可做",
+   "detail": "繼續探索剩餘入口；擊殺獨一真皇前先確認鎏金大廳／紅王子。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 8,
+   "kind": "世界進度",
+   "player": "刀刀",
+   "world": "耶莎",
+   "titleZh": "墮落之路／紀念之行",
+   "titleEn": "The Lament / Path of the Fallen",
+   "status": "待確認",
+   "detail": "聊天中更正為大概率屬刀刀世界，仍需由傳送點列表確認；請勿重置。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 14,
+   "kind": "世界進度",
+   "player": "提提",
+   "world": "世界之外",
+   "titleZh": "新戰役",
+   "titleEn": "New Campaign",
+   "status": "待確認",
+   "detail": "聊天中提及準備開始；實際世界、主線與副本尚未確認。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 15,
+   "kind": "世界進度",
+   "player": "刀刀",
+   "world": "世界之外",
+   "titleZh": "冒險模式",
+   "titleEn": "Adventure Mode",
+   "status": "可做",
+   "detail": "後續可用於定向補缺；目前 Roll 未在聊天中確認。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 5,
+   "kind": "彩蛋",
+   "player": "尼尼",
+   "world": "洛斯曼",
+   "titleZh": "尼姆埃與獨一真皇分支",
+   "titleEn": "Nimue / One True King",
+   "status": "可做",
+   "detail": "接受擊殺尼姆埃任務，但放過她；擊殺獨一真皇後回尼姆埃。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 6,
+   "kind": "物品",
+   "player": "共用",
+   "world": "洛斯曼",
+   "titleZh": "不羈者的禮物",
+   "titleEn": "Gift of the Unbound",
+   "status": "可做",
+   "detail": "尼尼世界可嘗試完成尼姆埃分支取得。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 7,
+   "kind": "物品",
+   "player": "共用",
+   "world": "洛斯曼",
+   "titleZh": "緋紅衛士套裝",
+   "titleEn": "Crimson Guard Set",
+   "status": "可做",
+   "detail": "若尼尼世界有鎏金大廳：3 枚紅王硬幣進貢後，再擊殺獨一真皇。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 9,
+   "kind": "物品",
+   "player": "共用",
+   "world": "耶莎",
+   "titleZh": "金絲帶",
+   "titleEn": "Golden Ribbon",
+   "status": "已取得",
+   "detail": "聊天中已標記取得。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 10,
+   "kind": "物品",
+   "player": "共用",
+   "world": "耶莎",
+   "titleZh": "極樂的禮物",
+   "titleEn": "Gift of Euphoria",
+   "status": "已取得",
+   "detail": "聊天中已標記取得。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 11,
+   "kind": "特性",
+   "player": "共用",
+   "world": "世界之外",
+   "titleZh": "預言",
+   "titleEn": "Footwork",
+   "status": "已取得",
+   "detail": "聊天中已標記取得；英文名稱待隊伍再次核對。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 12,
+   "kind": "物品",
+   "player": "共用",
+   "world": "洛斯曼",
+   "titleZh": "紅王子的王冠",
+   "titleEn": "Crown of the Red Prince",
+   "status": "待確認",
+   "detail": "尚未取得；需先完成紅王子相關條件。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  },
+  {
+   "id": 13,
+   "kind": "物品",
+   "player": "共用",
+   "world": "耶莎",
+   "titleZh": "騎士守衛",
+   "titleEn": "Knight Guard",
+   "status": "待確認",
+   "detail": "需要王冠開隱藏通道並處理焚化靈魂灰燼；世界歸屬待確認。",
+   "updatedAt": "2026-08-11T07:36:08.326Z"
+  }
+ ],
+ "translations": {},
+ "archetypes": {
+  "Challenger": [
+   "提提"
+  ],
+  "Engineer": [
+   "提提",
+   "尼尼"
+  ],
+  "Summoner": [
+   "提提",
+   "刀刀"
+  ],
+  "Hunter": [
+   "尼尼"
+  ],
+  "Gunslinger": [
+   "尼尼",
+   "刀刀"
+  ],
+  "Explorer": [
+   "尼尼",
+   "刀刀"
+  ],
+  "Handler": [
+   "刀刀"
+  ]
+ }
+}
