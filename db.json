@@ -456,11 +456,12 @@
   "刀刀|戰役|涅魯德": {
    "cycle": 1,
    "storyline": "達拉裟",
-   "updatedAt": "2026-08-13T05:43:43.030Z",
+   "updatedAt": "2026-08-13T05:43:45.350Z",
    "seen": {
     "Extraction Hub": "清",
     "The Eon Vault": "清",
-    "Forgotten Prison": "清"
+    "Forgotten Prison": "清",
+    "Abyssal Rift": "有"
    }
   },
   "刀刀|冒險|洛斯曼": {
