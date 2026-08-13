@@ -35,50 +35,6 @@
    "updatedAt": "2026-08-11T07:36:08.326Z"
   },
   {
-   "id": 4,
-   "kind": "世界進度",
-   "player": "尼尼",
-   "world": "洛斯曼",
-   "titleZh": "淒涼海岸（戰役）",
-   "titleEn": "Forlorn Coast · Campaign",
-   "status": "需重骰",
-   "detail": "繼續探索剩餘入口；擊殺獨一真皇前先確認鎏金大廳／紅王子。",
-   "updatedAt": "2026-08-12T00:59:27.108Z"
-  },
-  {
-   "id": 8,
-   "kind": "世界進度",
-   "player": "刀刀",
-   "world": "洛斯曼",
-   "titleZh": "墮落之路 → 紀念之行",
-   "titleEn": "Pathway of the Fallen → Walk of Remembrance",
-   "status": "待確認",
-   "detail": "洛斯曼翡族宮殿型副本，兩張相連：在墮落之路打碎地上的畫進入鏡中世界，才能到紀念之行。花園迷宮走到底、水池旁擊殺陰靈臣子拿紀念章鑰匙開中間光門；之後戴紅王子的王冠靠近兩幅畫中間的牆壁，可取得焚化靈魂灰燼（騎士守衛的材料）。原紀錄把這裡和耶莎的輓歌寫在一起，已拆開。",
-   "updatedAt": "2026-08-11T07:36:08.326Z"
-  },
-  {
-   "id": 14,
-   "kind": "世界進度",
-   "player": "提提",
-   "world": "世界之外",
-   "titleZh": "新戰役",
-   "titleEn": "New Campaign",
-   "status": "待確認",
-   "detail": "聊天中提及準備開始；實際世界、主線與副本尚未確認。",
-   "updatedAt": "2026-08-11T07:36:08.326Z"
-  },
-  {
-   "id": 15,
-   "kind": "世界進度",
-   "player": "刀刀",
-   "world": "世界之外",
-   "titleZh": "冒險模式",
-   "titleEn": "Adventure Mode",
-   "status": "可做",
-   "detail": "後續可用於定向補缺；目前 Roll 未在聊天中確認。",
-   "updatedAt": "2026-08-11T07:36:08.326Z"
-  },
-  {
    "id": 5,
    "kind": "彩蛋",
    "player": "尼尼",
@@ -165,17 +121,6 @@
    "status": "待確認",
    "detail": "需要王冠開隱藏通道並處理焚化靈魂灰燼；世界歸屬待確認。",
    "updatedAt": "2026-08-11T07:36:08.326Z"
-  },
-  {
-   "id": 16,
-   "kind": "世界進度",
-   "player": "刀刀",
-   "world": "耶莎",
-   "titleZh": "輓歌",
-   "titleEn": "The Lament",
-   "status": "待確認",
-   "detail": "耶莎的密室型副本（與煙囪、扭曲教堂三選一）。與洛斯曼的紀念之行無關，是原紀錄誤植；請由傳送點列表確認刀刀世界是否有這張，確認前請勿重置。",
-   "updatedAt": "2026-08-12T00:00:00.000Z"
   }
  ],
  "translations": {},
